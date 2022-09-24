@@ -1,0 +1,11 @@
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\bin\Debug\RaidFarmer.exe.config
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\bin\Debug\RaidFarmer.exe
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\bin\Debug\RaidFarmer.pdb
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.Form1.resources
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.Properties.Resources.resources
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.exe
+C:\Users\fabia\source\repos\RaidFarmer\RaidFarmer\obj\Debug\RaidFarmer.pdb
